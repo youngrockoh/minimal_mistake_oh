@@ -1,11 +1,11 @@
 ---
-title: "Hello!"
+title: ""
 permalink: /about/
 layout: single
 ---
 
 ## About Me
-I am currently working as a senior research engineer at AI Vision Lab, Samsung SDS since March 2019. 
+Hello! I am currently working as a senior research engineer at Samsung SDS since March 2019. 
 In 2019, I received Ph.D. (Dissertation: Mathematical Modeling and Analysis for Adaptive Medium Access Protocols in Wireless Networks) from the department of Mathematical Sciences (Applied Probability) at Korea Advanced Institute of Science and Technology (KAIST) under the supervision of Prof. Ganguk Hwang.
 In 2013, I received B.S from the department of Mathematical Sciences at KAIST.
 
