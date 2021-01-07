@@ -16,7 +16,7 @@ layout: single
 
 - **[W1] Jointly Optimize Positive and Negative Saliencies for Black Box Classifiers**
   <br>
-  **Hyungsik Jung**, Youngrock Oh, Jeonghyung Park, and Min Soo Kim
+  Hyungsik Jung, **Youngrock Oh**, Jeonghyung Park, and Min Soo Kim
   <br>
   *25th International Conference on Pattern Recognition Workshop, Explainable Deep Learning-AI (VIRTUAL).* **ICPR 2020 WS**.
   <br>  
