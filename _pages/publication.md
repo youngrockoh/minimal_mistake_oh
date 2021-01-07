@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-permalink: /publications/
+permlink: /publications/
 layout: single
 ---
 **J**: Journal, **C**: Conference, **W**: Workshop, **D**: Dissertation

@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "ABOUT"
-  - url: "/about/"
+  - url: /about/
   - title: "PUBLICATIONS"
-  - url: "/publications/"
+  - url: /publications/
   - title: "PROJECTS"
-  - url: "/projects/"
+  - url: /projects/
 
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
