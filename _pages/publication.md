@@ -21,7 +21,7 @@ layout: single
   *25th International Conference on Pattern Recognition Workshop, Explainable Deep Learning-AI (VIRTUAL).* **ICPR 2020 WS**.
   <br>  
   
-- **[J2] Stochastic Geometry Analysis of the Correlation Be-tween Consecutive Packet Transmission in WLAN**
+- **[J2] Stochastic Geometry Analysis of the Correlation Between Consecutive Packet Transmission in WLAN**
  <br>
  **Youngrock Oh**, Ganguk Hwang
  <br>
